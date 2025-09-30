@@ -7,7 +7,7 @@ Here are the projects I built:
 
 1) Interactive Sprite
 A sprite asks the user a question and reacts differently depending on the answer.  
-[Project](scratch_projects/Interactive_Sprite.sb3)
+[Project](./scratch_projects/Interactive_Sprite.sb3)
 
 2) Maze Game
 A small maze game where the player needs to reach the exit without touching the walls or moving obstacles.
